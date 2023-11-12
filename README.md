@@ -12,7 +12,7 @@ The more layers, the more chances.
 
 ## Linux Security Modules/Security Features/Hardening Patches
 
-| Name                                                              | Description                   | LINKS                                                                                                          |
+| Name                                                              | Description                                                                                                                           |
 |-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | [ SELinux - Mandatory Access Control ]  | SELinux aims to enhance the security of Linux systems by implementing mandatory access controls (MAC).                                                                |
 | [ Apparmor - Mandatory Access Control ]      | Linux security module designed to restrict the capabilities of individual programs or processes                                                                   |                 
@@ -36,7 +36,7 @@ The more layers, the more chances.
 | [ isolate ]  | Isolate is a sandbox built to safely run untrusted executables, offering them a limited-access environment and preventing them from affecting the host system. |
 | [ cloudflare/sandbox ]  | Simple Linux seccomp rules without writing any code |
 | [ secimport ]  | Python runtime sandbox with eBPF and seccomp (Blocks RCE). | 
-| [ bubblewrap ]  | Low-level unprivileged sandboxing tool used by Flatpak and similar projects | https://github.com/containers/bubblewrap | 
+| [ bubblewrap ]  | Low-level unprivileged sandboxing tool used by Flatpak and similar projects | 
 
 
 
