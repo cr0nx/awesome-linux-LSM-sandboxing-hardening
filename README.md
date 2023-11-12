@@ -12,7 +12,7 @@ The more layers, the more chances.
 
 ## Linux Security Modules/Security Features/Hardening Patches
 
-| Name                                                              | Description                                                      | LINKS                                                                         |
+| Name                                                              | Description                                                                                                                             |
 
 |-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | [ SELinux - Mandatory Access Control ]  | SELinux aims to enhance the security of Linux systems by implementing mandatory access controls (MAC).                                                                |
