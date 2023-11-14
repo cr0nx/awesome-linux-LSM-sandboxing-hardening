@@ -28,6 +28,7 @@ The more layers, the more chances.
 | GRSecurity – set of security patches                  | Grsecurity® is an extensive security enhancement to the Linux kernel that defends against a wide range of security threats through intelligent access control, memory corruption-based exploit prevention, and a host of other system hardening that generally require no configuration.     |
 | LKRG – Linux Kernel Runtime Guard                  | LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel     |
 | VED-Ebpf                  | VED (Vault Exploit Defense)-eBPF leverages eBPF (extended Berkeley Packet Filter) to implement runtime kernel security monitoring and exploit detection for Linux systems    |
+| ebpfguard                  | Rust library for writing Linux security policies using eBPF    |
 
 
  ## Linux Sandboxes
